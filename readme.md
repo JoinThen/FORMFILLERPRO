@@ -85,10 +85,5 @@ Công cụ sẽ tự động điền các trường đã cấu hình trong form.
 ## **📝 Lưu ý**
 Đảm bảo rằng bạn đã cài đặt đúng ChromeDriver và đảm bảo rằng phiên bản của ChromeDriver tương thích với trình duyệt Chrome mà bạn đang sử dụng.=
 Nếu gặp lỗi về proxy, hãy kiểm tra lại địa chỉ proxy và cổng trong config.json.
-```lesh
-### Hướng dẫn tạo file:
-1. Mở trình soạn thảo văn bản (Notepad, VS Code, Sublime Text, hoặc bất kỳ trình soạn thảo nào).
-2. Sao chép toàn bộ nội dung trên vào.
-3. Lưu file với tên `README.md` trong thư mục dự án của bạn.
-```
-_**Hy vọng thông tin trên hữu ích!**_
+
+_**Hy vọng tools này là hữu ích!**_
