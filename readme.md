@@ -75,6 +75,7 @@ Ví dụ cấu hình config.json:
 **parameter:** Các trường tham số cần điền trong form (ví dụ: "fullname", "email", "phone").
 
 **value:** Danh sách các giá trị có thể điền vào mỗi trường (ví dụ: "Nguyễn Văn A", "a@gmail.com", "0901234567").
+
 **3. Chạy công cụ**
 Sau khi cấu hình xong, bạn có thể chạy script để điền form tự động.
 Chạy script:
