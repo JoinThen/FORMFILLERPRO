@@ -80,7 +80,7 @@ Ví dụ cấu hình config.json:
 Sau khi cấu hình xong, bạn có thể chạy script để điền form tự động.
 Chạy script:
 ```bash
-python form_filler.py
+python main.py
 ```
 Công cụ sẽ tự động điền các trường đã cấu hình trong form.
 ## **📝 Lưu ý**
