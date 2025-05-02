@@ -21,7 +21,7 @@ pip install selenium
 Tải mã nguồn và giải nén hoặc clone vào thư mục:
 ```bash
 git clone https://github.com/JoinThen/FORMFILLERPRO.git
-cd form-filler
+cd FORMFILLERPRO
 ```
 **2. Cấu hình proxy (Tùy chọn)**
 Mở file config.json để cấu hình các tham số cần điền vào form và cấu hình proxy (nếu cần).
@@ -69,8 +69,11 @@ Ví dụ cấu hình config.json:
   }
 ```
 **use_proxy:** Bật hoặc tắt proxy (True/False).
+
 **proxy_list:** Danh sách các proxy bạn muốn sử dụng khi bật proxy.
+
 **parameter:** Các trường tham số cần điền trong form (ví dụ: "fullname", "email", "phone").
+
 **value:** Danh sách các giá trị có thể điền vào mỗi trường (ví dụ: "Nguyễn Văn A", "a@gmail.com", "0901234567").
 **3. Chạy công cụ**
 Sau khi cấu hình xong, bạn có thể chạy script để điền form tự động.
