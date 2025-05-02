@@ -14,14 +14,15 @@
   
 ### Cài đặt các thư viện yêu cầu:
 ```bash
-pip install selenium```
-
+pip install selenium
+```
 ## *🔧 Cài đặt và sử dụng*
 **1. Clone hoặc tải mã nguồn**
 Tải mã nguồn và giải nén hoặc clone vào thư mục:
 ```bash
 git clone https://github.com/JoinThen/FORMFILLERPRO.git
-cd form-filler```
+cd form-filler
+```
 **2. Cấu hình proxy (Tùy chọn)**
 Mở file config.json để cấu hình các tham số cần điền vào form và cấu hình proxy (nếu cần).
 Ví dụ cấu hình config.json:
